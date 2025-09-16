@@ -5,11 +5,24 @@ Incluye agentes para análisis, visualización y despliegue de alertas en entorn
 
 ---
 
+## 📂 Estructura del proyecto
+
+cybersecurity-multiagent/
+├── app/ # Código Python principal (agentes, dashboards, etc.)
+├── requirements.txt # Dependencias
+├── Dockerfile # Opcional, para despliegues
+├── config.py # Configuración
+└── README.md # Documentación
+
+yaml
+Copy code
+
+---
+
 ## 🚀 Instalación
+
+Clona el repositorio y entra en la carpeta del proyecto:
 
 ```bash
 git clone https://github.com/MackieUni/cybersecurity-multiagent.git
 cd cybersecurity-multiagent
-pip install -r requirements.txt
-uvicorn app.main:app --reload --port 8001
-

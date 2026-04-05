@@ -11,13 +11,6 @@ The system was developed in **Google Colab** as part of the *AI in Finance* cour
 
 ---
 
-## 🎯 Objectives  
-- Build a **modular, reproducible, and scalable** ML pipeline for financial environments.  
-- Simulate **network attacks** and **log anomalies** in realistic banking scenarios.  
-- Evaluate performance using solid metrics (**accuracy, recall, AUC**).  
-- Ensure **compliance with legal, ethical, and regulatory frameworks**.  
-
----
 
 ## System Architecture
 
@@ -25,7 +18,16 @@ The following diagram shows the full hybrid ML pipeline,
 from raw banking data through the ensemble detection layer
 to real-time threat classification and audit logging.
 
-https://github.com/MackieUni/Banking-Cybersecurity-ML/blob/main/architecture.png
+<img src="architecture.png" width="100%" alt="Banking Cybersecurity ML Architecture"/>
+
+
+## 🎯 Objectives  
+- Build a **modular, reproducible, and scalable** ML pipeline for financial environments.  
+- Simulate **network attacks** and **log anomalies** in realistic banking scenarios.  
+- Evaluate performance using solid metrics (**accuracy, recall, AUC**).  
+- Ensure **compliance with legal, ethical, and regulatory frameworks**.  
+
+---
 
 ## 🚀 Key Features & Results  
 - ✅ **High accuracy (>95%)** in network intrusion detection.  

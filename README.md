@@ -19,6 +19,14 @@ The system was developed in **Google Colab** as part of the *AI in Finance* cour
 
 ---
 
+## System Architecture
+
+The following diagram shows the full hybrid ML pipeline,
+from raw banking data through the ensemble detection layer
+to real-time threat classification and audit logging.
+
+https://github.com/MackieUni/Banking-Cybersecurity-ML/blob/main/architecture.png
+
 ## 🚀 Key Features & Results  
 - ✅ **High accuracy (>95%)** in network intrusion detection.  
 - ✅ Real-time anomaly detection in server logs.  
